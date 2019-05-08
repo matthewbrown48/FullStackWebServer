@@ -10,4 +10,7 @@ software installed and changes made
 *config timezone, (default was correct)
 *install git, config and enable virtual host, create .wsgi folder. 
 
+Attributions 
+I recieved extensive help from my mentor, Daniel A, and also a great deal of help from stackoverflow, and github. 
+The catalog app being used was provided by my mentor to use, due to challenges in setup, and was approved for use in the final submission. 
 
