@@ -13,4 +13,6 @@ software installed and changes made
 Attributions 
 I recieved extensive help from my mentor, Daniel A, and also a great deal of help from stackoverflow, and github. 
 The catalog app being used was provided by my mentor to use, due to challenges in setup, and was approved for use in the final submission. 
+https://github.com/jungleBadger/-nanodegree-linux-server#create-a-new-user-named-grader
+https://stackoverflow.com/
 
